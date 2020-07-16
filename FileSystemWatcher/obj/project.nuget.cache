@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "OepXfstHI41YVRYxfYUoTHQ7OP0Nw933RUv/v1LYnsh9Y6FJmjZ9/8vg4x4HJdG5hM/P7V+hNviTui2rsYFWFQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vanil\\source\\repos\\Assignment2\\Assignment2\\Assignment2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vanil\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\vanil\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "C:\\Users\\vanil\\.nuget\\packages\\system.data.sqlite.core\\1.0.113.1\\system.data.sqlite.core.1.0.113.1.nupkg.sha512",
+    "C:\\Users\\vanil\\.nuget\\packages\\system.drawing.common\\4.7.0\\system.drawing.common.4.7.0.nupkg.sha512",
+    "C:\\Users\\vanil\\.nuget\\packages\\system.security.accesscontrol\\4.7.0\\system.security.accesscontrol.4.7.0.nupkg.sha512",
+    "C:\\Users\\vanil\\.nuget\\packages\\system.security.permissions\\4.7.0\\system.security.permissions.4.7.0.nupkg.sha512",
+    "C:\\Users\\vanil\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512",
+    "C:\\Users\\vanil\\.nuget\\packages\\system.windows.extensions\\4.7.0\\system.windows.extensions.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
