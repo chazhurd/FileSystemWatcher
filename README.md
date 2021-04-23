@@ -7,12 +7,12 @@ To Start:
 *Prereq must have VS2019 or newer
 
 <br>
-1. Open Visual Studio
-2. Choose Clone Repository
-3. Use the Clone Link to clone this project
-4. Start "Assignment 2" (2nd assign in my GUI C# Class)
-5. Enter the path you'd like to watch
-6. Follow instructions from CMD Prompt
+1. Open Visual Studio<br>
+2. Choose Clone Repository<br>
+3. Use the Clone Link to clone this project<br>
+4. Start "Assignment 2" (2nd assign in my GUI C# Class)<br>
+5. Enter the path you'd like to watch<br>
+6. Follow instructions from CMD Prompt<br>
 
 <br>
 ![](InitImgs/clone.png)
