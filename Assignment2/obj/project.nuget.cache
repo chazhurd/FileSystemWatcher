@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7vrIxMS2jk5UncT73DxnFDiG8zZr/Kg7r0tBmXIcU0aW1xJGVefvwinSZxdnyrO8FvXk69KA3o76uYVCPWH3NA==",
+  "dgSpecHash": "9wh0wiaQv/Z1O3BLWfbFQmRCoyYa3t37QE071I07SRj0u0PJGmIt4F25WRHI3P8W5GYS1B1MxSUVEbrVlufctA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\vanil\\OneDrive\\Desktop\\FileSystemWatcher-master\\FileSystemWatcher-master\\Assignment2\\Assignment2.csproj",
+  "projectFilePath": "C:\\Users\\vanil\\OneDrive\\Desktop\\GitHubAndroid\\FileSystemWatcher\\Assignment2\\Assignment2.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\vanil\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\vanil\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",

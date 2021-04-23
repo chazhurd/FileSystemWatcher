@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\vanil\\OneDrive\\Desktop\\FileSystemWatcher-master\\FileSystemWatcher-master\\Assignment2\\Assignment2.csproj": {}
+    "C:\\Users\\vanil\\OneDrive\\Desktop\\GitHubAndroid\\FileSystemWatcher\\Assignment2\\Assignment2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\vanil\\OneDrive\\Desktop\\FileSystemWatcher-master\\FileSystemWatcher-master\\Assignment2\\Assignment2.csproj": {
+    "C:\\Users\\vanil\\OneDrive\\Desktop\\GitHubAndroid\\FileSystemWatcher\\Assignment2\\Assignment2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vanil\\OneDrive\\Desktop\\FileSystemWatcher-master\\FileSystemWatcher-master\\Assignment2\\Assignment2.csproj",
+        "projectUniqueName": "C:\\Users\\vanil\\OneDrive\\Desktop\\GitHubAndroid\\FileSystemWatcher\\Assignment2\\Assignment2.csproj",
         "projectName": "Assignment2",
-        "projectPath": "C:\\Users\\vanil\\OneDrive\\Desktop\\FileSystemWatcher-master\\FileSystemWatcher-master\\Assignment2\\Assignment2.csproj",
+        "projectPath": "C:\\Users\\vanil\\OneDrive\\Desktop\\GitHubAndroid\\FileSystemWatcher\\Assignment2\\Assignment2.csproj",
         "packagesPath": "C:\\Users\\vanil\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vanil\\OneDrive\\Desktop\\FileSystemWatcher-master\\FileSystemWatcher-master\\Assignment2\\obj\\",
+        "outputPath": "C:\\Users\\vanil\\OneDrive\\Desktop\\GitHubAndroid\\FileSystemWatcher\\Assignment2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\vanil\\AppData\\Roaming\\NuGet\\NuGet.Config",
