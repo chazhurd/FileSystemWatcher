@@ -6,7 +6,5 @@ To Start:
 *Prereq must have VS2019 or newer
 
 1. Download and Extract File
-2. Open Visual Studio and "Open Project or Solution"
-3. Go to the Extracted File and choose the .sln file
-4. Press Start in Visual Studio ( Run ) 
+2. Open the extracted file and 
 5. 
