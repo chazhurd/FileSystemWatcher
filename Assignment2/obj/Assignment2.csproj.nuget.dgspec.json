@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\vanil\\source\\repos\\Assignment2\\Assignment2\\Assignment2.csproj": {}
+    "C:\\Users\\vanil\\OneDrive\\Desktop\\FileSystemWatcher-master\\FileSystemWatcher-master\\Assignment2\\Assignment2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\vanil\\source\\repos\\Assignment2\\Assignment2\\Assignment2.csproj": {
+    "C:\\Users\\vanil\\OneDrive\\Desktop\\FileSystemWatcher-master\\FileSystemWatcher-master\\Assignment2\\Assignment2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vanil\\source\\repos\\Assignment2\\Assignment2\\Assignment2.csproj",
+        "projectUniqueName": "C:\\Users\\vanil\\OneDrive\\Desktop\\FileSystemWatcher-master\\FileSystemWatcher-master\\Assignment2\\Assignment2.csproj",
         "projectName": "Assignment2",
-        "projectPath": "C:\\Users\\vanil\\source\\repos\\Assignment2\\Assignment2\\Assignment2.csproj",
+        "projectPath": "C:\\Users\\vanil\\OneDrive\\Desktop\\FileSystemWatcher-master\\FileSystemWatcher-master\\Assignment2\\Assignment2.csproj",
         "packagesPath": "C:\\Users\\vanil\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vanil\\source\\repos\\Assignment2\\Assignment2\\obj\\",
+        "outputPath": "C:\\Users\\vanil\\OneDrive\\Desktop\\FileSystemWatcher-master\\FileSystemWatcher-master\\Assignment2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\vanil\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -26,6 +26,7 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -37,6 +38,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "dependencies": {
             "System.Data.SQLite.Core": {
               "target": "Package",
@@ -62,7 +64,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }
