@@ -3,8 +3,17 @@ This is a simple file system watcher that takes input in the console from the us
 <br>
 To Start:
 
+<br>
 *Prereq must have VS2019 or newer
 
-1. Download and Extract File
-2. Open the extracted file and 
-5. 
+<br>
+1. Open Visual Studio
+2. Choose Clone Repository
+3. Use the Clone Link to clone this project
+4. Start "Assignment 2" (2nd assign in my GUI C# Class)
+5. Enter the path you'd like to watch
+6. Follow instructions from CMD Prompt
+
+<br>
+![](InitImgs/clone.png)
+![](InitImgs/working.png)
